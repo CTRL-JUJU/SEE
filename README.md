@@ -2,7 +2,7 @@
 
 ## Assignment 2
 
-@all Assignment 2 For Clustering: Sessa Empirical Estimator
+@all Assignment 2 For Clustering: <ins>**Sessa Empirical Estimator**</ins>
 
 1. Read the Journals about the Sessa Empirical Estimator.
 2. Convert the R codes into Python Codes (use jupyter notebook).
