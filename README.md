@@ -23,6 +23,6 @@ https://rdrr.io/cran/AdhereR/man/med.events.html
 
 ##
 
-@all Assignment for Sessa Empirical Estimation is moved to February 25, 2025 at 11:59 PM.
+@all Assignment for Sessa Empirical Estimation is moved to **February 25, 2025 at 11:59 PM.**
 
-Additional Task: Create a callable function in each step. Check if these callable function has the same result (and insights) with your Jupyter Notebook.
+**Additional Task: Create a callable function in each step. Check if these callable function has the same result (and insights) with your Jupyter Notebook.**
